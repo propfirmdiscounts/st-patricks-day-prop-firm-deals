@@ -1,0 +1,12 @@
+# St. Patrick's Day Prop Firm Deals
+
+This dataset tracks every St. Patrick's Day deal published on PropFirmDiscount.com by a
+prop firm carrying a verified discount code.
+
+Deals tracked: 11 across 8 firms. Newest deal: 2026-03-19.
+Every deal row carries that firm's discount code, which works any time.
+
+Event page: https://propfirmdiscount.com/tag/st-patricks-day/
+Event dataset: https://propfirmdiscount.com/api/prop-firm-events/
+Deal rows for this event: https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals
+All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
