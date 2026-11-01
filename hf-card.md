@@ -21,14 +21,14 @@ tags:
 
 As of 2026-03-19, 11 St. Patrick's Day deals from 8 prop firms are tracked, 11 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified St. Patrick's Day discount codes in the 2026 season are 70% OFF with code PFD at Funded Hero, 70% OFF with code PFD at Funding Traders, 25% OFF with code PFD at AquaFunded, 20% OFF with code PFD at thePropTrade, and 10% OFF with code FXIFY2WRIVW at FXIFY.
+The biggest verified St. Patrick's Day discount codes in the 2026 season are 70% OFF with code PFD at Funding Traders, 62% OFF with code PFD at Funded Hero, 25% OFF with code PFD at AquaFunded, 20% OFF with code PFD at thePropTrade, and 10% OFF with code FXIFY2WRIVW at FXIFY.
 
 ## Prop Firms with the Highest Discount Codes in St. Patrick's Day 2026
 
 | # | Prop firm | Exclusive code | Code discount (Current) | Latest St. Patrick's Day deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Funded Hero | PFD | 70% | 60% Off All Evaluation Accounts For St. Patrick's Day | 60% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 2 | Funding Traders | PFD | 70% | 40% Off Challenge Pricing, 100% Profit Split & 14-Day Payout Limit 88 Uses | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 1 | Funding Traders | PFD | 70% | 40% Off Challenge Pricing, 100% Profit Split & 14-Day Payout Limit 88 Uses | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 2 | Funded Hero | PFD | 62% | 60% Off All Evaluation Accounts For St. Patrick's Day | 60% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | AquaFunded | PFD | 25% | 50% Off Instant Funded Accounts, 40% Off Challenges and 150% Refund | 50% off | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 4 | thePropTrade | PFD | 20% | 20% Off Classic Accounts with $100K 1-Step for $479 | 20% off | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
 | 5 | FXIFY | FXIFY2WRIVW | 10% | 27% Off Evaluation Price With Free 90% Profit Split | 27% off | Ended | https://propfirmdiscount.com/prop-firm/fxify/ |
@@ -56,7 +56,7 @@ The newest is **25% Discount on All Trading Challenges With 95% Profit Split** f
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 8 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 70% off with code PFD at Funded Hero. The code is separate from the St. Patrick's Day offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 8 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 70% off with code PFD at Funding Traders. The code is separate from the St. Patrick's Day offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
