@@ -2,20 +2,20 @@
 
 As of 2026-03-19, 11 St. Patrick's Day deals from 8 prop firms are tracked, 11 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified St. Patrick's Day discount codes in the 2026 season are 70% OFF with code PFD at Funding Traders, 62% OFF with code PFD at Funded Hero, 25% OFF with code PFD at AquaFunded, 20% OFF with code PFD at thePropTrade, and 10% OFF with code FXIFY2WRIVW at FXIFY.
+The biggest verified St. Patrick's Day discount codes in the 2026 season are 60% OFF with code PFD at Funded Hero, and 40% OFF with code PFD at Funding Traders.
 
 ## Prop Firms with the Highest Discount Codes in St. Patrick's Day 2026
 
-| # | Prop firm | Exclusive code | Code discount (Current) | Latest St. Patrick's Day deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Standing) | Latest St. Patrick's Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Funding Traders | PFD | 70% | 40% Off Challenge Pricing, 100% Profit Split & 14-Day Payout Limit 88 Uses | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 2 | Funded Hero | PFD | 62% | 60% Off All Evaluation Accounts For St. Patrick's Day | 60% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | AquaFunded | PFD | 25% | 50% Off Instant Funded Accounts, 40% Off Challenges and 150% Refund | 50% off | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 4 | thePropTrade | PFD | 20% | 20% Off Classic Accounts with $100K 1-Step for $479 | 20% off | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
-| 5 | FXIFY | FXIFY2WRIVW | 10% | 27% Off Evaluation Price With Free 90% Profit Split | 27% off | Ended | https://propfirmdiscount.com/prop-firm/fxify/ |
-| 6 | Funded Elite | AFF1864062 | 10% | 25% Discount on All Trading Challenges With 95% Profit Split | 25% off | Ended | https://propfirmdiscount.com/prop-firm/funded-elite/ |
-| 7 | Funded Trading Plus | PFD | 10% | 30% Off Up To $100k Evaluation Accounts | 30% off | Ended | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 8 | Dominion Funding | PFD5PC | 5% | 20% Off All Challenge Fees - St. Patrick’s Day Promotion | 20% off | Ended | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
+| 1 | Funding Traders | PFD | 40% | 40% Off Challenge Pricing, 100% Profit Split & 14-Day Payout Limit 88 Uses | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-percent-discount-100-profit-split-88-uses/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 2 | Funded Hero | PFD | 60% | 60% Off All Evaluation Accounts For St. Patrick's Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-percent-off-st-patricks-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 3 | AquaFunded | PFD | 25% | 50% Off Instant Funded Accounts, 40% Off Challenges and 150% Refund | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-50-off-instant-40-off-challenges-refund/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 4 | thePropTrade | PFD | 20% | 20% Off Classic Accounts with $100K 1-Step for $479 | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-classic-accounts/) | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
+| 5 | FXIFY | FXIFY2WRIVW | 10% | 27% Off Evaluation Price With Free 90% Profit Split | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-27-off-evaluation-addons-march/) | Ended | https://propfirmdiscount.com/prop-firm/fxify/ |
+| 6 | Funded Elite | AFF1864062 | 10% | 25% Discount on All Trading Challenges With 95% Profit Split | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-elite/ |
+| 7 | Funded Trading Plus | PFD | 10% | 30% Off Up To $100k Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-30-off-100k-st-patricks-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 8 | Dominion Funding | PFD5PC | 5% | 20% Off All Challenge Fees - St. Patrick’s Day Promotion | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 
 The newest is **25% Discount on All Trading Challenges With 95% Profit Split** from Funded Elite — 25% off.
 
@@ -101,11 +101,9 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
