@@ -8,14 +8,14 @@ The biggest verified St. Patrick's Day discount codes in the 2026 season are 60%
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest St. Patrick's Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | FundingTraders | PFD | 40% | 40% Off Challenge Pricing, 100% Profit Split & 14-Day Payout Limit 88 Uses with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-percent-discount-100-profit-split-88-uses/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 2 | Funded Hero | PFD | 60% | 60% Off All Evaluation Accounts For St. Patrick's Day with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-percent-off-st-patricks-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | AquaFunded | PFD | 35% | 50% Off Instant Funded Accounts, 40% Off Challenges and 150% Refund | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-50-off-instant-40-off-challenges-refund/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 4 | Funded Trading Plus | PFD | 20% | 30% Off Up To $100k Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-30-off-100k-st-patricks-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 5 | thePropTrade | PFD | 20% | 20% Off Classic Accounts with $100K 1-Step for $479 | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-classic-accounts/) | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
-| 6 | FXIFY | FXIFY2WRIVW | 10% | 27% Off Evaluation Price With Free 90% Profit Split | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-27-off-evaluation-addons-march/) | Ended | https://propfirmdiscount.com/prop-firm/fxify/ |
-| 7 | Funded Elite | AFF1864062 | 10% | 25% Discount on All Trading Challenges With 95% Profit Split | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/) | Ended | https://propfirmdiscount.com/prop-firm/funded-elite/ |
-| 8 | Dominion Funding | PFD5PC | 5% | 20% Off All Challenge Fees - St. Patrick’s Day Promotion | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
+| 1 | FundingTraders | PFD | 40% | 40% Off Challenge Pricing, 100% Profit Split & 14-Day Payout Limit 88 Uses with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-percent-discount-100-profit-split-88-uses/) | Ended | [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 2 | Funded Hero | PFD | 60% | 60% Off All Evaluation Accounts For St. Patrick's Day with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-percent-off-st-patricks-day/) | Ended | [https://propfirmdiscount.com/prop-firm/funded-hero/](https://propfirmdiscount.com/prop-firm/funded-hero/) |
+| 3 | AquaFunded | PFD | 35% | 50% Off Instant Funded Accounts, 40% Off Challenges and 150% Refund | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-50-off-instant-40-off-challenges-refund/) | Ended | [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/) |
+| 4 | Funded Trading Plus | PFD | 20% | 30% Off Up To $100k Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-30-off-100k-st-patricks-day/) | Ended | [https://propfirmdiscount.com/prop-firm/funded-trading-plus/](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
+| 5 | thePropTrade | PFD | 20% | 20% Off Classic Accounts with $100K 1-Step for $479 | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-classic-accounts/) | Ended | [https://propfirmdiscount.com/prop-firm/the-prop-trade/](https://propfirmdiscount.com/prop-firm/the-prop-trade/) |
+| 6 | FXIFY | FXIFY2WRIVW | 10% | 27% Off Evaluation Price With Free 90% Profit Split | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-27-off-evaluation-addons-march/) | Ended | [https://propfirmdiscount.com/prop-firm/fxify/](https://propfirmdiscount.com/prop-firm/fxify/) |
+| 7 | Funded Elite | AFF1864062 | 10% | 25% Discount on All Trading Challenges With 95% Profit Split | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/) | Ended | [https://propfirmdiscount.com/prop-firm/funded-elite/](https://propfirmdiscount.com/prop-firm/funded-elite/) |
+| 8 | Dominion Funding | PFD5PC | 5% | 20% Off All Challenge Fees - St. Patrick’s Day Promotion | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/) | Ended | [https://propfirmdiscount.com/prop-firm/dominion-funding/](https://propfirmdiscount.com/prop-firm/dominion-funding/) |
 
 The newest is **25% Discount on All Trading Challenges With 95% Profit Split** from Funded Elite — 25% off.
 
@@ -25,9 +25,10 @@ The newest is **25% Discount on All Trading Challenges With 95% Profit Split** f
 - Firms with a code in the 2026 season: 8
 - Newest deal: 2026-03-19
 - Deals tagged on the site: 20 (11 of them from firms with a verified code, listed below)
-- Event page: https://propfirmdiscount.com/tag/st-patricks-day/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- GitHub repository: [https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals](https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals)
+- Event page: [https://propfirmdiscount.com/tag/st-patricks-day/](https://propfirmdiscount.com/tag/st-patricks-day/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Deal dataset: [https://propfirmdiscount.com/api/prop-firm-events/](https://propfirmdiscount.com/api/prop-firm-events/)
 
 ## St. Patrick's Day prop firm deals FAQ
 
@@ -76,9 +77,9 @@ A deal is listed here because an editor tagged it for St. Patrick's Day on the s
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
 instead: https://github.com/propfirmdiscounts
 
-- Data source: https://propfirmdiscount.com
-- Event page: https://propfirmdiscount.com/tag/st-patricks-day/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Event page: [https://propfirmdiscount.com/tag/st-patricks-day/](https://propfirmdiscount.com/tag/st-patricks-day/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/st-patricks-day-prop-firm-deals.json`
 
