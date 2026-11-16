@@ -2,7 +2,7 @@
 
 This St. Patrick's Day, 11 deals from 8 prop firms are tracked, with 11 published during the 2026 season. Every firm carries a verified discount code that works year-round.
 
-As of November 2026, the biggest verified St.
+As of November 2026, the biggest verified St. Patrick's Day discount codes in the 2026 season are 60% OFF with code PFD at Funded Hero, and 40% OFF with code PFD at FundingTraders.
 
 ## Prop Firms with the Highest Discount Codes in St. Patrick's Day 2026
 
