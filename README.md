@@ -1,10 +1,10 @@
-# St. Patrick's Day Prop Firm Discount Codes (2026)
+# St. Patrick's Day Prop Firm Deals & Discount Codes (2026)
 
-This St. Patrick's Day, 11 deals from 8 prop firms are tracked, with 11 published during the 2026 season. Every firm carries a verified discount code that works year-round.
+Explore St. Patrick's Day prop firm deals and discount codes from 8 proprietary trading firms, with 11 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified St. Patrick's Day discount codes in the 2026 season are 60% OFF with code PFD at Funded Hero, and 40% OFF with code PFD at FundingTraders.
 
-## Prop Firms with the Highest Discount Codes in St. Patrick's Day 2026
+## Prop Firms with the Highest St. Patrick's Day Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest St. Patrick's Day deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -17,20 +17,23 @@ As of November 2026, the biggest verified St. Patrick's Day discount codes in th
 | 7 | Funded Elite | AFF1864062 | 10% | 25% Discount on All Trading Challenges With 95% Profit Split | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/) | Ended | [Funded Elite Page](https://propfirmdiscount.com/prop-firm/funded-elite/) |
 | 8 | Dominion Funding | PFD5PC | 5% | 20% Off All Challenge Fees - St. Patrick’s Day Promotion | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/) | Ended | [Dominion Funding Page](https://propfirmdiscount.com/prop-firm/dominion-funding/) |
 
-The newest is **25% Discount on All Trading Challenges With 95% Profit Split** from Funded Elite — 25% off.
+The latest recorded St. Patrick's Day-tagged promotion is Funded Elite offering 25% Discount on All Trading Challenges With 95% Profit Split, published on March 19, 2026. The offer has since ended.
 
 - Event: St. Patrick's Day
-- Deals tracked: 11 (11 in 2026)
-- Firms: 8
+- St. Patrick's Day deals in this dataset: 11
+- Firms represented: 8
+- Deals published in 2026: 11
 - Firms with a code in the 2026 season: 8
 - Newest deal: 2026-03-19
-- Deals tagged on the site: 20 (11 of them from firms with a verified code, listed below)
 - GitHub repository: [St. Patrick's Day Deals Repository](https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals)
+- All St. Patrick's Day-tagged deals on the main site: 20 (11 of them from firms with a verified code, listed below)
 - Event page: [St. Patrick's Day Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/st-patricks-day/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## St. Patrick's Day prop firm deals FAQ
+This repository includes St. Patrick's Day-tagged deals from firms with a verified standing discount code. The main website may contain additional St. Patrick's Day-tagged promotions from firms that are not included in this dataset.
+
+## St. Patrick's Day Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest St. Patrick's Day prop firm deal?**
 
@@ -46,11 +49,11 @@ The newest deal is 25% off. Standing discount codes among these firms run 81% of
 
 ---
 
-## St. Patrick's Day deal history
+## St. Patrick's Day Prop Firm Deal History
 
 Total deals tracked: **11**
 
-### 2026 (11 deals)
+### 2026 St. Patrick's Day Deals (11 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -68,20 +71,19 @@ Total deals tracked: **11**
 
 ---
 
-## About this repository
+## About the St. Patrick's Day Prop Firm Deals Dataset
 
-This repository mirrors every **St. Patrick's Day** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of St. Patrick's Day-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for St. Patrick's Day on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [St. Patrick's Day Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/st-patricks-day/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/st-patricks-day-prop-firm-deals.json`
+## St. Patrick's Day Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -111,13 +113,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
