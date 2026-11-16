@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: "propfirmevent"
+  HF_NAMESPACE: "stpatricksdaypropfirm"
   EVENT_SLUG: "st-patricks-day"
   EVENT_NAME: "St. Patrick's Day"
   REPO_NAME: "st-patricks-day-prop-firm-deals"
